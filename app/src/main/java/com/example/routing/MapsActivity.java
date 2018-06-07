@@ -44,5 +44,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
 
         // comments for days!!!
+        // are there actually comments for days?
     }
 }
